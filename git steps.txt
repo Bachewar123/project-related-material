@@ -1,0 +1,40 @@
+Important Git Commands
+
+git init
+Used to initialize a git repository inside a folder. Used when we start working on new project
+
+git add --a
+Used to add all the files for git tracking. It also tracks the changes made in the file
+
+git commit -m “your message here”
+Used to commit your changes i.e. to mark the checkpoint in your project.
+
+git push -u origin your_branch_name
+Used to push your changes to the github repository
+
+git remote add origin URL_Here
+Used to let git bash know that you are working on which repository
+
+git checkout -b new_branch_name
+Used to create a new branch and selecting the new branch at the same time. If you want to switch to the existing branch you can use git checkout Branch_Name.
+
+git pull Github_Repo_URL
+Used to pull changes from the github into your local machine
+
+
+***********HD Images**************
+yandex.ru
+
+***********HD Images**************
+
+
+
+
+
+
+
+
+
+
+
+
